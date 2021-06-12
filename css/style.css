@@ -1,0 +1,15 @@
+
+.logo-size{
+    width : 80px;
+    height: 80px;
+}
+
+.div-myheight{
+    height: 180px !important;
+}
+
+.nav-item:hover
+{
+    background-color: #0d6efd;
+    border-radius: 25px;
+}
